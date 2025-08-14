@@ -89,5 +89,6 @@ GitHub: [github.com/MariaVictoria](https://github.com/MariaVictoria)
 ---
 
 
-[Insignia]
+[Insignia](https://cdn1.gnarususercontent.com.br/6/409126/007f0f58-5970-4133-94b8-9af2551f2ab2.png)
+<img width="500" height="500" alt="007f0f58-5970-4133-94b8-9af2551f2ab2" src="https://github.com/user-attachments/assets/b2617418-9dbf-42fa-89f9-73e88e58b40c" />
 
